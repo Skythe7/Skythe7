@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hello, World!
+![Levitate's banner](assets/levitate2(cropped).png)
 
+### My name is Jesslyn, A.K.A Skythe / Levitate
+### I am a..
+- **Web Developer 🌐**
+- **Game Developer 🎮**
+- **Linux Enthusiast 🐧**
+- **Python Programmer 🐍**
 <!--
 **Skythe7/Skythe7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
