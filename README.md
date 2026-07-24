@@ -8,6 +8,11 @@
 - **Game Developer 🎮**
 - **Linux Enthusiast 🐧**
 - **Python Programmer 🐍**
+- **Student From Indonesia 📖**
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=skythe7&rank_icon=default&hide_rank=true&custom_title=Statisctic&show_icons=true&include_all_commits=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api?username=skythe7&rank_icon=default&hide_rank=true&custom_title=Statisctic&show_icons=true&include_all_commits=true&theme=great-gatsby)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=skythe7&layout=compact&langs_count=5&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=skythe7&layout=compact&langs_count=5&theme=great-gatsby)
+
 ### I can do..
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
