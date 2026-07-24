@@ -1,4 +1,3 @@
-# Hello, World!
 ![Banner](assets/github-header-banner.png)
 ![Levitate's banner](assets/levitate2(cropped).png)
 
