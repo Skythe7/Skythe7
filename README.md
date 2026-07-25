@@ -35,22 +35,27 @@
 
 ## My profiles
 <a href="https://skythechromatic.itch.io/">
+
 ![https://skythechromatic.itch.io/](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
 </a>
 
 <a href="https://discord.com/users/1199664789106983054">
+
 ![https://discord.com/users/1199664789106983054](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 </a>
 
 <a href="https://github.com/Skythe7">
+
 ![https://github.com/Skythe7](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 </a>
 
 <a href="https://www.reddit.com/user/skythe777/">
+
 ![https://www.reddit.com/user/skythe777/](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 </a>
 
 <a href="https://www.youtube.com/@Skythe_">
+
 ![https://www.youtube.com/@Skythe_](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 </a>
 
