@@ -34,3 +34,4 @@
 ![Asus Laptop](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/skythe7/skythe7/snake-output/snake.svg" alt="Snake animation" />
